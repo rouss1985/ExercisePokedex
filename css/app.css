@@ -1,0 +1,10 @@
+body{
+  background-image: url("../assets/images/FondoHome.jpg");
+  background-repeat: space;
+
+}
+
+.top-bar, .top-bar ul {
+    background-color: #f3dd38;
+}
+ 
