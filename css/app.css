@@ -1,10 +1,20 @@
 body{
   background-image: url("../assets/images/FondoHome.jpg");
-  background-repeat: space;
-
+  background-repeat:repeat-y;
+  background-size:100%;
 }
 
 .top-bar, .top-bar ul {
     background-color: #f3dd38;
 }
- 
+.containerGral{
+  text-align: center;
+}
+.respuesta{
+  margin-top: 60px;
+}
+.pokemon{
+  /*margin-top: 60px;*/
+  display: inline-block;
+  padding: 20px;
+}
